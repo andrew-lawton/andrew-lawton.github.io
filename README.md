@@ -24,6 +24,12 @@ I hope you enjoyed that, and if you didn't please don't leave, it gets better I 
 # **Interest in IT**
 
 ### Why I.T?
-My interest in I.T blossemed when my brother began his studies in Computer Science. I was able to see how he could manipulate and create new programs tailored for himself and for his clients. Being able to create devices and programs specifically for you would be something I would love to do in the future. Whilst using premade devices and programs is useful at times, there is something a bit more special about being able to make it yourself from the ground up.
+My interest in I.T blossemed when my brother began his studies in Computer Science. I was able to see how he could manipulate and create new programs tailored for himself and for his clients. Being able to create devices and programs specifically for you would be something I would love to do in the future on both a large and small scale. Whilst using premade devices and programs is useful at times, there is something a bit more special about being able to make it yourself from the ground up.
+
+### Why RMIT?
+I chose to study at RMIT due to the interconnection between hands-on learning and theoretical learning. As a learner I believe this approach works best for me as it allows for me to become more ready for the industry ahead of me. The CBD is also a bonus and I would love to be able to begin a career located in the Melbourne CBD.
+
+### What do I expect to be equipped after this?
+
 
 

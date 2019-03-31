@@ -42,6 +42,12 @@ After leaving RMIT I hope to have a solid grasp and understanding of how we as u
 ### Why this Andrew?
 Well this job really is a dream position. It will need a lot of experience and knowledge gained before even entering the realm of Cyber Response Manager. But the things that draw me to a position like so is the challenge of walking into work each day and getting ready to potentiallty face a new problem. You would also look to constantly upskill and make changes so that you can have the most secure and fullproof system provided for the company. The everchanging environments and problem would also keep it exciting and engaging for myself. As is also a manager's position, being able to have a team to support and lead is also something I would enjoy. 
 
-To get to a position like so 
+To get to a position like so a considerable number of years of experience within the cybersecurity and security operations would be needed. I would also have to gain more qualifications such as the ones listed in the skills column. Smaller ceritifcates and short courses would also be useful.
+
+In regards to my current skills in relation to this job, I would currently be lacking most of the skills outlined, but they can certainly be gained within a few years of hard work and university.
+
+# Personal Profile
+
+
 
 

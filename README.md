@@ -69,7 +69,7 @@ The User’s Phone (Mobile Application)
 1. The physical door lock
 2. The physical door lock would have to be able to fit to a range of doors. 
 
-It will contain a wifi receiver, proximity sensor and hardware needed to perform the locking and unlocking mechanism. Alternatively a proximity sensor can be left out instead unlocking the door when the user connects to the home wifi (this is dependent on the user’s wifi signal). 
+It will contain a wifi receiver, proximity sensor and hardware needed to perform the locking and unlocking mechanism. Alternatively a proximity sensor can be left out, instead unlocking the door when the user connects to the home wifi (this is dependent on the user’s wifi signal). 
 The application on the User’s phone can be extremely simple. It will only need a pinpad, and an Unlock/Lock Button.
 
 #### Skills Required

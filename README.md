@@ -47,6 +47,11 @@ To get to a position like so a considerable number of years of experience within
 In regards to my current skills in relation to this job, I would currently be lacking most of the skills outlined, but they can certainly be gained within a few years of hard work and university.
 
 # Personal Profile
+After completeing a:
+1. Myers-Briggs Test - https://www.truity.com/personality-test/10858/test-results/7432165
+2. Online Learning Style Test - http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=9&T=5
+3. Personality Test - https://www.16personalities.com/enfj-personality
+
 
 
 

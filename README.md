@@ -31,7 +31,7 @@ My interest in I.T blossemed when my brother began his studies in Computer Scien
 ### Why RMIT?
 I chose to study at RMIT due to the interconnection between hands-on learning and theoretical learning. As a learner I believe this approach works best for me as it allows for me to become more ready for the industry ahead of me. The CBD is also a bonus and I would love to be able to begin a career located in the Melbourne CBD.
 
-### What do I expect to be equipped after this?
+### What do I expect to be equipped with after this?
 After leaving RMIT I hope to have a solid grasp and understanding of how we as users can use I.T to solve real world problems within the technollgy driven industry. I want to be able to think both outside of the box to create, help and solve problems that can be used to better the world around us. I would love to speicialise in cybersecurity and networking, but am aware furthur study will be required to be a industry leader within this sector.
 
 # Ideal Job

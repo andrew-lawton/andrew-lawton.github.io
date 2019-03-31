@@ -56,6 +56,9 @@ After completeing a:
 
 #### Above is a quick snapshot of all my results collated into one picture
 
+### Decoding these enigmas
+For me personally none of these results really come as a surprise. I find myself to be a fair mix dependent on the situation at hand, but wholly I like to think I can be fairly balanced. In most cases when relating this to a team or work situation, I would prefer for it to be solely focused on the task on hand and to make sure it gets completed and this is reflected in my results. If I'm trying to relate this to a team situation, I should alway looks to surround myself with like minded people who are ready to always work hard and focus on finishing the task at hand. In a team situation these results also show that sometimes I may like to take control and make sure that we stay on task, but also being able to step back so that others can also excel.
+
 
 
 

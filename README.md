@@ -52,6 +52,10 @@ After completeing a:
 2. Online Learning Style Test - http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=9&T=5
 3. Personality Test - https://www.16personalities.com/enfj-personality
 
+<a href="https://ibb.co/1GzdWcS"><img src="https://i.ibb.co/qYJWQ6Z/Screen-Shot-2019-03-31-at-11-22-11-pm.png" alt="Screen-Shot-2019-03-31-at-11-22-11-pm" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+
+#### Above is a quick snapshot of all my results collated into one picture
+
 
 
 

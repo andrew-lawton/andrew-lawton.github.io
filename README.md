@@ -14,3 +14,4 @@ After completeing high school last year I am currently enrolled in an Bachelors 
 
 When I'm not absorbed in this you can either find me with a guitar. While some may consider me a guitar tradgic, I try as best to emulate the smooth tones of John Mayer or the likes of Stevie Ray Vaughn. For those of you who may not know either of these men, class is now in session, enjoy this video of John Mayer.
 [![https://www.youtube.com/watch?v=mQ055hHdxbE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+

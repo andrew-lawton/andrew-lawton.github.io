@@ -21,5 +21,9 @@ https://www.youtube.com/watch?v=mQ055hHdxbE
 
 I hope you enjoyed that, and if you didn't please don't leave, it gets better I promise.
 
+# **Interest in IT**
+
+### Why I.T?
+My interest in I.T blossemed when my brother began his studies in Computer Science. I was able to see how he could manipulate and create new programs tailored for himself and for his clients. Being able to create devices and programs specifically for you would be something I would love to do in the future. Whilst using premade devices and programs is useful at times, there is something a bit more special about being able to make it yourself from the ground up.
 
 

@@ -59,7 +59,27 @@ After completeing a:
 ### Decoding these enigmas
 For me personally none of these results really come as a surprise. I find myself to be a fair mix dependent on the situation at hand, but wholly I like to think I can be fairly balanced. In most cases when relating this to a team or work situation, I would prefer for it to be solely focused on the task on hand and to make sure it gets completed and this is reflected in my results. If I'm trying to relate this to a team situation, I should alway looks to surround myself with like minded people who are ready to always work hard and focus on finishing the task at hand. In a team situation these results also show that sometimes I may like to take control and make sure that we stay on task, but also being able to step back so that others can also excel.
 
+# Project Ideas
+#### The big idea/motivation
+I would love to smart automate my whole house. From waking up in the morning and getting out of bed, to being able to leave the house knowing everything inside is secured, all whilst having steady integration and control over your smartphone. While this is quite broad, I would look to specialise in automation between the user and their house, specifically being able to enter your house hands-free. A lot of the times we can find our hands full and unable to open the door or it might be late at night and you just want to run into the house. Being able to walk straight through the door and into your home would make the hassle of having to take out your keys to unlock can be minimised by a device which could track your proximity to the door and unlock for you. This can be connected to smart lights which can also turn on with your arrival to your house. A Unlock/Lock Button can be utilised when user is not at home, in the case that someone else has to also enter the house. It also reduces the stress of users wondering whether they left the door open or not.
 
+#### Requirements
+To be able to do this, the first step would be identifying user groups. Basically anyone who would have to use the front door. The product would have to be user specific to minimise the risk of anyone just being able to enter your house. An app can be developed that can be installed onto the user’s phone which can connect to the door handle. The door handle would have to have wifi connectivity and an automated deadlock. As system recognises that the user is within close proximity of the house, a pincode/fingerprint will be requested on the user’s smartphone which will then unlock the door for when the user is within reaching distance of the door.  A slight nudge can be used to open the door which can then prompt all house lights to turn on. As stated before the user interfaces used to open the door will be:
+The User’s Phone (Mobile Application)
+1. The physical door lock
+2. The physical door lock would have to be able to fit to a range of doors. 
+
+It will contain a wifi receiver, proximity sensor and hardware needed to perform the locking and unlocking mechanism. Alternatively a proximity sensor can be left out instead unlocking the door when the user connects to the home wifi (this is dependent on the user’s wifi signal). 
+The application on the User’s phone can be extremely simple. It will only need a pinpad, and an Unlock/Lock Button.
+
+#### Skills Required
+To be able to do this I would have to be able to network both the physical lock and mobile application to communicate both the unlocking and locking feature. I would also have to be able to manipulate proximity and location features so that the physical lock can recognise when to unlock the door. The hardware may vary dependent on the type of door, but could possibly be standardised to a very simple design, but will pose potential issues in regards to installation.
+
+#### Outcome
+If the project was to be successful the outcome will mean that people will be able to easily access their houses minimising the worry associated with forgetting to shut the front door. Whilst this is useful it may also pose a threat to the integrity of houses as the device may be able to be hacked and reprogrammed thus allowing people to enter houses without authorised accessed. This can be combated with a complex security system.
+
+#### Acknowledgements
+Thank you for viewing my profile. Shoutout to my tutor Anthony Clapp for guidance and information on how to get webpage up and runnning. *cue chill jazz vibey music
 
 
 

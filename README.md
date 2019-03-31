@@ -7,12 +7,19 @@ hello, my name is Andrew, and on this webpage you will be delighted to learn a l
 My full name is Andrew Edward Lawton and my SN is S3785495.
 
 
+### Backgrounf
 I was born in Australia, but both of my parents migrated here from Sri Lanka in the late 80s. 
 
 
+### Education
 After completeing high school last year I am currently enrolled in an Bachelors Degrees at RMIT in an Information Technology Course. I find myself exploring techonology and the world beneath our fingertips in my sparetime thus my interest in this course. 
 
+### Interest
 When I'm not absorbed in this you can either find me with a guitar. While some may consider me a guitar tradgic, I try as best to emulate the smooth tones of John Mayer or the likes of Stevie Ray Vaughn. For those of you who may not know either of these men, class is now in session, enjoy this video of John Mayer.
 
 https://www.youtube.com/watch?v=mQ055hHdxbE
+
+I hope you enjoyed that, and if you didn't please don't leave, it gets better I promise.
+
+
 

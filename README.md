@@ -39,4 +39,9 @@ After leaving RMIT I hope to have a solid grasp and understanding of how we as u
 
 <a href="https://ibb.co/ZKQD81c"><img src="https://i.ibb.co/K7tvqzV/Screen-Shot-2019-03-31-at-11-05-53-pm.png" alt="Screen-Shot-2019-03-31-at-11-05-53-pm" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
+### Why this Andrew?
+Well this job really is a dream position. It will need a lot of experience and knowledge gained before even entering the realm of Cyber Response Manager. But the things that draw me to a position like so is the challenge of walking into work each day and getting ready to potentiallty face a new problem. You would also look to constantly upskill and make changes so that you can have the most secure and fullproof system provided for the company. The everchanging environments and problem would also keep it exciting and engaging for myself. As is also a manager's position, being able to have a team to support and lead is also something I would enjoy. 
+
+To get to a position like so 
+
 
